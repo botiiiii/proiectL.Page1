@@ -900,6 +900,8 @@ body{
         max-width: 411px;
         margin-left: auto;
         margin-right: auto;
+        background-position-y: 5350px;
+        background-size: 62%;
         }
 
         .heading-container .menu{
